@@ -1,9 +1,0 @@
-Projeto medvoa
-
-plataforma para hospedar os arquivos de um sistema estilo google drive - login google.
-
-especialidade medica - para disciplica e adicinar disciplina
-
-gerar historia sem chat - caso clinico - donwload do caso
-
-remover materia - modo foco

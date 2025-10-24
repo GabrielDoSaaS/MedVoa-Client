@@ -1,9 +1,6 @@
-version: '3.8'
-
+version: '2.4'
 services:
   react-app:
     build: .
-    container_name: react_app
     ports:
       - "3000:80"
-    restart: always
